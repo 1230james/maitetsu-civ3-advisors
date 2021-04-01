@@ -25,7 +25,7 @@ Downloads will be available on the [releases page](https://github.com/1230james/
 
 *This requires Civ3: Conquests or Civ3: Complete to use.*
 
-For ease of use, a Conquests scenario is provided to allow you to play an otherwise vanilla game of Civ3 with the Katulinian advisors without needing to modify any game files.
+For ease of use, a Conquests scenario is provided to allow you to play an otherwise vanilla game of Civ3 with the Maitetsu advisors without needing to modify any game files.
 
 1. Copy `MaitetsuAdvisors` (the directory) and `MaitetsuAdvisors.biq` into the `Conquests` directory (the one that contains the Conquests! scenarios). For example, for Civ3: Complete, this will be `(Civ3 root)/Conquests/Conquests`.
 2. Launch the game and select `MaitetsuAdvisors` from the Conquests list. Set up and play the game as you normally would.
@@ -36,7 +36,7 @@ For users without Conquests or Complete, users who want to add these to a larger
 
 1. Copy the contents of `MaitetsuAdvisors/Art/SmallHeads` into the `(root folder)/Art/SmallHeads` directory of your choice. Overwrite if prompted.
 
-`(root folder)` can be the actual Civ3 root folder if you wish to replace the vanilla game files. Doing so would give you the Katulinian advisors across all games, regardless of the scenario or mods you are using, *except* if a scenario provides its own advisor head assets, since scenario assets override corresponding assets in the vanilla game files. Otherwise, it should be the root folder of the scenario you want to add the Katulinian advisors to.
+`(root folder)` can be the actual Civ3 root folder if you wish to replace the vanilla game files. Doing so would give you the Maitetsu advisors across all games, regardless of the scenario or mods you are using, *except* if a scenario provides its own advisor head assets, since scenario assets override corresponding assets in the vanilla game files. Otherwise, it should be the root folder of the scenario you want to add the Maitetsu advisors to.
 
 *Remember to back up a copy of the files you are overwriting!*
 
