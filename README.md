@@ -9,7 +9,7 @@ This mod replaces the Civ3 advisors with characters from *[Maitetsu - Last Run!!
 ## Character List
 
 * Domestic Advisor: Hibiki
-* Trade Advisor: Makura
+* Trade Advisor: Kisaki
 * Military Advisor: Nagi
 * Foreign Advisor: Paulette
 * Culture Advisor: Fukami
